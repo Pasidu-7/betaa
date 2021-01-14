@@ -10,13 +10,10 @@ git add .
 
 git commit -m "Changes made of backups"
 
+git Push origin main
 
 
-git remote add origin https://github.com/Pasidu-7/betaa.git
 
-git remote -v
-
-git push -u origin main
 
 
 
