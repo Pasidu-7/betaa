@@ -4,13 +4,16 @@ date=$(date '+%Y-%m-%d')
 
 echo $(date '+%Y-%m-%d')
 
-git init 
 
 git add .
 
 git commit -m "Changes made of backups"
 
-git push origin main 
+git remote add origin https://github.com/Pasidu-7/betaa.git
+
+git remote -v
+
+git push -u origin master
 
 
 
