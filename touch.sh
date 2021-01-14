@@ -16,6 +16,7 @@ git remote add origin https://github.com/Pasidu-7/betaa.git
 
 git remote -v
 
-git push -u origin master 
+git push -u origin main
+
 
 
